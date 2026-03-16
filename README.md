@@ -18,4 +18,4 @@ Microsoft Power BI Desktop — dashboard design and visualization
 Files
 
 FatBottomGrills_Dataset.xlsx — mock small business sales and payroll data
-dashboard.pbix — Power BI dashboard file
+Screenshot 2026-03-16 011314.png — Power BI dashboard file
