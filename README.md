@@ -1,2 +1,21 @@
-# small-business-powerbi-dashboard
-Interactive Power BI dashboard built on mock small business sales data in Excel. Visualizes revenue, sales volume, payroll, and location performance with live data connection.
+Small Business Power BI Dashboard
+An interactive business performance dashboard built in Microsoft Power BI, connected to a mock small business dataset created in Microsoft Excel.
+Overview
+This project demonstrates an end-to-end data analytics workflow — from raw data entry in Excel to a live-updating visual dashboard in Power BI. Built as a client-facing demonstration of data analytics capabilities for FantomFixIT.
+Dashboard Visuals
+
+Total Revenue, Units Sold, and Transaction KPIs
+Revenue by Menu Item
+Revenue by Month trend line
+Revenue by Location
+Payroll by Employee
+
+Tools Used
+
+Microsoft Excel — dataset creation and data structure
+Microsoft Power BI Desktop — dashboard design and visualization
+
+Files
+
+dataset.xlsx — mock small business sales and payroll data
+dashboard.pbix — Power BI dashboard file
